@@ -3,7 +3,7 @@
 <!--
 **NattProgram/NattProgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
-<picture> <img align="right" <img src="Programadora.picture" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
+<picture> <img align="right"><img src="Programadora.picture" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
 
 <!--Intro start-->
 - 🔭 I’m currently working on creating a broad profile as a programmer.
