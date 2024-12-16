@@ -3,7 +3,6 @@
 <!--
 **NattProgram/NattProgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
-</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on creating a broad profile as a programmer.
@@ -14,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me if you need a good professional.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I'm changing careers.
--->
