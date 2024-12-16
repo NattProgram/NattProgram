@@ -5,7 +5,7 @@
   
 <picture> <img align="right"><img src="Programadora.picture" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
 
-<!--Intro start-->
+<!--Intro start--><50%>
 - 🔭 I’m currently working on creating a broad profile as a programmer.
 - 🌱 I’m currently learning programming information.
 - 👯 I’m looking to collaborate on a company to learn more.
