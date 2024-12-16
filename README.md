@@ -5,6 +5,8 @@
   
 Here are some ideas to get you started:
 
+<!--Intro start-->
+
 - 🔭 I’m currently working on creating a broad profile as a programmer.
 - 🌱 I’m currently learning programming information.
 - 👯 I’m looking to collaborate on a company to learn more.
