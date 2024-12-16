@@ -1,5 +1,4 @@
-## Hi there 👋 
-"Helloworld.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<h1 align="center">## Hi there 👋 "Helloworld.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <!--
 **NattProgram/NattProgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
