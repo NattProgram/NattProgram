@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="Helloworld.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<h1 align="center""Helloworld.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <!--
 **NattProgram/NattProgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->h1 align="center"
